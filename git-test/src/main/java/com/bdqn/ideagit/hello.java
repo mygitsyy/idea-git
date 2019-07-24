@@ -6,5 +6,6 @@ public class hello {
         System.out.println("你reps1");
         System.out.println("添加reps1");
         System.out.println("修改reps1");
+        System.out.println("合并reps1");
     }
 }
